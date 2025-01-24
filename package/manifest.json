@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "OreLight RTX",
+        "name": "OreLight RTX",
+        "uuid": "4a0eaef6-943c-43ef-b632-58bccb4f9086",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "resource",
+            "type": "resources",
+            "uuid": "2b66518c-4819-4e79-96a4-1a2e535a6dff",
+            "version": [0, 0, 1]
+        }
+    ],
+    "capabilities" : [
+        "raytraced"
+    ]
+}
